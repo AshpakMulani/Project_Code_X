@@ -1,0 +1,5 @@
+openai-whisper
+pyaudio
+ffmpeg
+ffmpeg-python
+keyboard
