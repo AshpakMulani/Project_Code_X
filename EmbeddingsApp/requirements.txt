@@ -1,0 +1,11 @@
+pinecone-client
+python-dotenv
+streamlit
+langchain
+llama-index
+llama-index-embeddings-huggingface
+PyPDF2
+langchain-community
+langchain_mistralai
+ollama
+langchain-openai

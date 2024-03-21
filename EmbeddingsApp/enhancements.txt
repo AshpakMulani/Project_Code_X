@@ -1,0 +1,2 @@
+replace embedding model with GPT4ALLEmbeddings() : https://python.langchain.com/docs/integrations/text_embedding/gpt4all
+
